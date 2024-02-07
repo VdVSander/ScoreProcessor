@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>ab-testing.png</file>
+    <file>ab-testing.png</file>
+    <file>division.png</file>
+    <file>merge.png</file>
+    <file>refresh.png</file>
+  </qresource>
+</RCC>
